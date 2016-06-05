@@ -1,0 +1,28 @@
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\bin\Debug\jovenClub.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\bin\Debug\jovenClub.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\obj\Debug\jovenClub.Properties.Resources.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\obj\Debug\JovenClub.csproj.GenerateResource.Cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\obj\Debug\jovenClub.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\obj\Debug\jovenClub.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\Oficina\obj\Debug\jovenClub.MainForm.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\obj\Debug\jovenClub.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\obj\Debug\jovenClub.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\bin\Debug\jovenClub.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\bin\Debug\jovenClub.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\obj\Debug\jovenClub.Properties.Resources.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\obj\Debug\JovenClub.csproj.GenerateResource.Cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\jovenClub\jovenClub\obj\Debug\jovenClub.Ventana.resources
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\obj\Debug\jovenClub.exe
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\obj\Debug\jovenClub.pdb
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\bin\Debug\jovenClub.exe
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\bin\Debug\jovenClub.pdb
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\obj\Debug\jovenClub.Ventana.resources
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\obj\Debug\jovenClub.Properties.Resources.resources
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\obj\Debug\JovenClub.csproj.GenerateResource.Cache
+D:\Vasily\Tesis\Frank\final\labvirtual\jovenClub\bin\Debug\ShadowEngine.dll

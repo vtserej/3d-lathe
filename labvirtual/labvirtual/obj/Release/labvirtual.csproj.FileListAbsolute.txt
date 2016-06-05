@@ -1,0 +1,11 @@
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\obj\Release\ResolveAssemblyReference.cache
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\obj\Release\labvirtual.PiezaForm.resources
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\obj\Release\labvirtual.Ventana.resources
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\obj\Release\labvirtual.Properties.Resources.resources
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\obj\Release\labvirtual.csproj.GenerateResource.Cache
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\bin\Release\mecalab.exe
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\bin\Release\mecalab.pdb
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\bin\Release\ShadowEngine.dll
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\bin\Release\ShadowEngine.pdb
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\obj\Release\mecalab.exe
+D:\Vasily\Tesis\Frank\labvirtual\labvirtual\obj\Release\mecalab.pdb
